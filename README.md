@@ -6,9 +6,14 @@
 
 <h1 align="center">Hi 👋, I'm Saptarshi Bisoi</h1>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=saptarshi-bisoi&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshi-bisoi" />
+</p>
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Student+at+ICV+Polytechnic;Always+Learning,+Always+Building" alt="Typing SVG" />
 </h3>
+
+
 
 ---
 
