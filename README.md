@@ -13,8 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Student+at+ICV+Polytechnic;Always+Learning,+Always+Building" alt="Typing SVG" />
 </h3>
 
-
-
 ---
 
 ### 📫 Contact Me
@@ -54,15 +52,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saptarshi-bisoi&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saptarshi-bisoi&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10%22%20alt=%22GitHub%20Stats" 
+    alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saptarshi-bisoi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshi-bisoi&theme=tokyonight&hide_border=false" alt="GitHub Streak"alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshi-bisoi&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshi-bisoi&layout=compact&theme=tokyonight&hide_border=false%22%20alt=%22Top%20Languages" alt="Top Languages" />
 </p>
 
 ---
