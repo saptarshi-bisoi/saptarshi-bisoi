@@ -77,11 +77,5 @@
 <p align="center">
   🧑‍💻 Built with passion by <strong>Saptarshi Bisoi</strong> – Keep Learning. Keep Building. 🚀
 </p>
-### 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saptarshi-bisoi&repo=Dice-Of-Wisdom&cache_seconds=86400&theme=merko" alt="Dice Of Wisdom" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saptarshi-bisoi&repo=Age--Calculator-&cache_seconds=86400&theme=merko" alt="Age Calculator" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saptarshi-bisoi&repo=changelog&cache_seconds=86400&theme=merko" alt="Changelog" />
-</p>
 
