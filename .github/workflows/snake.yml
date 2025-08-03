@@ -1,26 +1,38 @@
-name: Generate Snake Animation
+name: GitHub Snake Game
+
+
 
 on:
+
+  # Schedule the workflow to run daily at midnight UTC
+
   schedule:
-    - cron: "0 0 * * *" # runs daily
-  workflow_dispatch: # allows manual trigger
+
+    - cron: "0 0 * * *"
+
+
+
+  # Allow manual triggering of the workflow
+
+  workflow_dispatch:
+
+
+
+  # Trigger the workflow on pushes to the main branch
+
+  push:
+
+    branches:
+
+      - main
+
+
 
 jobs:
-  build:
+
+  generate:
+
     runs-on: ubuntu-latest
-    name: Generate github-contribution-grid-snake.svg
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: saptarshi-bisoi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Commit and Push
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "Generate contribution snake"
-          add: "dist/*.svg"
+
+    timeout-minutes: 10
+
