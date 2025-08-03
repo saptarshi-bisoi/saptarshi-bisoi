@@ -73,6 +73,14 @@
 
 
 ---
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/saptarshi-bisoi/saptarshi-bisoi/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 <p align="center">
   🧑‍💻 Built with passion by <strong>Saptarshi Bisoi</strong> – Keep Learning. Keep Building. 🚀
