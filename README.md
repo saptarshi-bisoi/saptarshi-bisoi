@@ -91,9 +91,11 @@
 ---
 
 ## 🐍 Contribution Snake
-<br clear="both">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saptarshi-bisoi/saptarshi-bisoi/output/snake.svg" alt="Dark Merko Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/saptarshi-bisoi/saptarshi-bisoi/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
