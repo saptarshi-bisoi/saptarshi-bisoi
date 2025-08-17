@@ -28,7 +28,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Student+at+ICV+Polytechnic;Always+Learning,+Always+Building" alt="Typing Animation" />
 </p>
 
----
+<!--Rgb bar-->
+<p align="center">
+  <img 
+    src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" 
+    alt="Animated Line GIF"
+    width="100%" 
+  />
+</p>
 
 ## 📫 Contact Me
 <p align="center">
@@ -48,7 +55,15 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
----
+
+<!--Rgb bar-->
+<p align="center">
+  <img 
+    src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" 
+    alt="Animated Line GIF"
+    width="100%" 
+  />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -77,7 +92,14 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
----
+<!--Rgb bar-->
+<p align="center">
+  <img 
+    src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" 
+    alt="Animated Line GIF"
+    width="100%" 
+  />
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -88,22 +110,42 @@
   <img src="https://streak-stats.demolab.com/?user=saptarshi-bisoi&theme=merko" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshi-bisoi&layout=compact&theme=merko&hide_border=false&cache_seconds=86400" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshi-bisoi&layout=compact&theme=merko&hide_border=false&cache_seconds=86400" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="220" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saptarshi-bisoi&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
+<!--Rgb bar-->
+<p align="center">
+  <img 
+    src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" 
+    alt="Animated Line GIF"
+    width="100%" 
+  />
+</p>
 
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshi-bisoi&theme=merko&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+<!--CAT-->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Cool Animation" width="100%" />
+</p>
 
----
 
 ## 🐍 Contribution Snake
 <p align="center">
@@ -112,7 +154,15 @@
 
 
 
----
+<!--Rgb bar-->
+<p align="center">
+  <img 
+    src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" 
+    alt="Animated Line GIF"
+    width="100%" 
+  />
+</p>
+
 
 <p align="center">
   🚀 Built with ❤️ by <b>Saptarshi Bisoi</b> | Keep Learning, Keep Building, Keep Growing ✨
