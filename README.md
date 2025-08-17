@@ -1,7 +1,17 @@
 <!-- Banner / Hero -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="250" style="border-radius: 12px;" />
-</p>
+## ✍️ Random Dev Quote
+
+
+<table>
+  <tr>
+    <td width="60%">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://camo.githubusercontent.com/99b33b36df693b62c868b8985047d6a3187e7c968af875f64c532e9d836ed9ea/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" alt="Octocat" width="250"/>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Hi 👋, I'm Saptarshi Bisoi</h1>
 <p align="center">
